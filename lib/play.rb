@@ -40,4 +40,5 @@ play(board)
   i = 1
   while i <=9
    turn(board)
+  end
 end
